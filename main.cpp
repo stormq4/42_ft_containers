@@ -1,7 +1,7 @@
 #include <iostream>
 #include <string>
 #include <deque>
-#if 1 //CREATE A REAL STL EXAMPLE
+#ifdef  STL 1
 	#include <map>
 	#include <stack>
 	#include <vector>
